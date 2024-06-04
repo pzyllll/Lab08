@@ -1,0 +1,7 @@
+version: '3'
+services:
+ 234-env-example:
+  image: dto80/234-env-example
+  environment:
+     NAME: 'Test2'
+     VALUE: '456'
